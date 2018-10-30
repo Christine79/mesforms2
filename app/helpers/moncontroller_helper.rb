@@ -1,0 +1,2 @@
+module MoncontrollerHelper
+end
